@@ -4,8 +4,7 @@
   "description": "# iniciar proyecto ``` node sockets/server.js ```",
   "main": "index.js",
   "scripts": {
-    "startserver": "node sockets/server.js",
-    "startclient": "node sockets/client.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
