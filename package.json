@@ -1,0 +1,13 @@
+{
+  "name": "chatsocketnode",
+  "version": "1.0.0",
+  "description": "# iniciar proyecto ``` node sockets/server.js ```",
+  "main": "index.js",
+  "scripts": {
+    "startserver": "node sockets/server.js",
+    "startclient": "node sockets/client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
